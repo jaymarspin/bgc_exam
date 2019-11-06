@@ -2,9 +2,9 @@
   <div id="app">
     
     
-    <router-link to="account">Account</router-link>
-    <router-link to="contact">Contact</router-link>
-    <router-link to="friends/1/2/3">Friends</router-link>
+    <router-link to="hello">login</router-link>
+   
+     
     <router-view/>
   </div>
 </template>
